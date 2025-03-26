@@ -1,5 +1,6 @@
 {
-  "image": "debian",
-  "features": {
+  "name": "Debian Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
   }
 }
