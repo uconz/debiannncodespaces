@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:trixie
 
 # Definir variáveis para o usuário e senha
 ENV USERNAME=leonel
